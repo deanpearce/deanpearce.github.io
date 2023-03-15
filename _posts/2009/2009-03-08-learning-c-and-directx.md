@@ -1,0 +1,11 @@
+---
+title: "Learning C# and DirectX"
+date: "2009-03-08"
+categories: 
+  - "development"
+  - "gaming"
+---
+
+Well, once again I am adding to my ever growing array of projects, none of which seem to be nearing completion. Regardless, some of them are making progress (such as the repository, which needs some cross-browser debugging and it will be finished), and others are currently stalled (such as the Movie Planet website project, it will return once I find that creative spark that I need). And others are ending their development cycle (the Java version of the video game engine, I am hoping to move it to a Sourceforge account so people can collaborate and submit changes more liberally than through the FTP repository I run). But amidst these projects, a new one has emerged. I have begun development in DirectX on an MMORPG video game. This game is an evolution from the original Invasion game written in VB.Net then in Java, however it is essentially a new game as I am trying my hand at programming 3D models. This should prove to be a great challenge and I think I will benefit lots from learning a new language (writing it in C#, managed makes it quite a bit easier to maintain, especially given the only contributor at the moment is myself) along with learning a new SDK (DirectX 10 along with the Windows API).
+
+Currently, the project is at the point where I am learning how to write in C#, which happens to be quite a bit like Java, but much more efficient, and learning how use the DirectX SDK efficiently. Not to mention that this will be my first effort in learning 3D modelling, so we shall see how far I get into acquiring all the knowledge required to make a truely 3D video game. The first steps have been made into the project as I now know how to properly work namespaces, write Windows libraries in C# and how to manage multiple packages in a single Solution file. This coupled with learning the basics of the DirectX SDK (Direct Input, D3D and how to work with textures) means that I am well on my way to understanding how to build a more scaleable implementation. I believe that I will be writing a short paper soon comparing the speed difference achieved compared to the game implementation in Java and a sprite based map model in C#, but there will be a few more posts before that release.
