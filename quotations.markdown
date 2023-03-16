@@ -9,7 +9,7 @@ Some of my favourite quotations that I've come across over the years. Proverbs, 
 > "Don't walk in front of me, I may not follow; Don't walk behind me, I may not lead; Walk beside me, and just be my friend." ― Albert Camus
 
 > "The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. All progress, therefore, depends upon the unreasonable man." ― George Bernard Shaw
-¸
+
 > "When you are studying any matter, or considering any philosophy, ask yourself only what are the facts and what is the truth that the facts bear out. Never let yourself be diverted either by what you wish to believe, or by what you think would have beneficent social effects if it were believed. But look only, and solely, at what are the facts." ― Bertrand Russell
 
 > "The good thing about science is that it's true whether or not you believe in it." ― Neil deGrasse Tyson
