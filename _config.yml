@@ -23,7 +23,7 @@ email: hello@deanpearce.me
 description: >- # this means to ignore newlines until "baseurl:"
   Artificial intelligence, biology, and society.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.deanpearce.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.deanpearce.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deanpearce
 github_username:  deanpearce
 
